@@ -4,7 +4,7 @@ Extra hacks, fixes, and options to help make w3.css even easier.
 ### Introduction
 W3.css ([https://www.w3schools.com/w3css/default.asp](https://www.w3schools.com/w3css/default.asp)) is a slim and fast responsive css framework that can perform many of the same functions as Bootstrap or Materialize, but without the extra javascript and bloat. It is easy to learn and remember.
 
-The **w3pro-plus.css** file is a fork of the current w3.css file with all of these additions added.
+The **w3plus.css** file is a fork of the current w3.css file with all of these additions added.
 
 ### Color Pallet Fix
 **Before:** A full color pallet with many colors, such as "khaki" or "deep-purple."
