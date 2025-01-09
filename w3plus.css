@@ -1,5 +1,4 @@
-/* W3.CSS 4.15 December 2020 by Jan Egil and Borge Refsnes */
-/* W3Pluss.CSS (4.15.1 January 2024) features added at the bottom by GracefulForm */
+/* W3PRO.CSS 4.15 December 2020 by Jan Egil and Borge Refsnes */
 html{box-sizing:border-box}*,*:before,*:after{box-sizing:inherit}
 /* Extract from normalize.css by Nicolas Gallagher and Jonathan Neal git.io/normalize */
 html{-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}
@@ -163,12 +162,12 @@ hr{border:0;border-top:1px solid #eee;margin:20px 0}
 .w3-light-green,.w3-hover-light-green:hover{color:#000!important;background-color:#caffbf!important}
 .w3-green,.w3-hover-green:hover{color:#fff!important;background-color:#4CAF50!important}
 .w3-dark-green,.w3-hover-dark-green:hover{color:#fff!important;background-color:#355E3B!important}
-.w3-light-blue,.w3-hover-light-blue:hover{color:#000!important;background-color:#9bf6ff!important}
-.w3-blue,.w3-hover-blue:hover{color:#fff!important;background-color:#2196F3!important} 	
-.w3-dark-blue,.w3-hover-dark-blue:hover{color:#fff!important;background-color:#1d2885!important}
-.w3-light-purple,.w3-hover-light-purple:hover{color:#000!important;background-color:#a0c4ff!important}
-.w3-purple,.w3-hover-purple:hover{color:#fff!important;background-color:#5D3FD3!important}
-.w3-dark-purple,.w3-hover-dark-purple:hover{color:#fff!important;background-color:#673147!important}
+.w3-light-blue,.w3-hover-light-blue:hover{color:#000!important;background-color:#9BB7D4!important}
+.w3-blue,.w3-hover-blue:hover{color:#fff!important;background-color:#2b5797!important} 	
+.w3-dark-blue,.w3-hover-dark-blue:hover{color:#fff!important;background-color:#152445!important}
+.w3-light-purple,.w3-hover-light-purple:hover{color:#000!important;background-color:#ddc2ed!important}
+.w3-purple,.w3-hover-purple:hover{color:#fff!important;background-color:#6B5B95!important}
+.w3-dark-purple,.w3-hover-dark-purple:hover{color:#fff!important;background-color:#1e052e!important}
 .w3-white,.w3-hover-white:hover{color:#000!important;background-color:#fff!important}
 .w3-ccc,.w3-hover-ccc:hover{color:#000!important;background-color:#ccc!important}
 .w3-black,.w3-hover-black:hover{color:#fff!important;background-color:#000!important}
