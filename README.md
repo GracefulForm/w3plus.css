@@ -1,5 +1,11 @@
 # w3plus.css
-A fork of w3.css pro to make it even easier.
+A fork of w3.css to make it even easier.
+
+### How to Use
+*(Current Version 4.15.1)*
+
+* **CDN:** ``` <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/GracefulForm/w3plus.css@master/css/4/w3plus.css"> ```
+* **Local File:** Only the w3plus.css file needs to be downloaded.
 
 ### Introduction
 W3.css ([https://www.w3schools.com/w3css/default.asp](https://www.w3schools.com/w3css/default.asp)) is a slim and fast responsive css framework that can perform many of the same functions as Bootstrap or Materialize, but without the extra javascript and bloat. It is easy to learn and remember.
